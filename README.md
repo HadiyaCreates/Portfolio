@@ -1,114 +1,65 @@
-# Build a Modern Portfolio Website with React & TailwindCSS
+# Developer Portfolio Website
 
+A clean and modern personal portfolio website built using React, Tailwind CSS, and Vite. This site showcases my projects, technical skills, and contact information with a minimal, responsive layout. Designed for job applications, freelancing opportunities, and professional visibility.
 
-
-## 📋 Table of Contents
-
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
+**Live Site:** [https://portfolio-one-tan-p5a7th6dm0.vercel.app/](https://portfolio-one-tan-p5a7th6dm0.vercel.app/)
 
 ---
 
-## 🚀 Introduction
+## Table of Contents
 
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
-
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
-
----
-
-## ⚙️ Tech Stack
-
-* **React** – Component-based UI development
-* **Vite** – Lightning-fast build tool
-* **TailwindCSS** – Utility-first CSS for styling
-* **Lucide Icons** – Clean and beautiful icon pack
-* **Radix UI** – Accessible component primitives
-* **TypeScript (optional)** – Type safety and tooling
-* **GitHub & Vercel** – Deployment
+- Introduction
+- Tech Stack
+- Features
+- Getting Started
+- Deployment
+- Screenshots
+- License
 
 ---
 
-## ⚡️ Features
+## Introduction
 
-* 🌑 **Light/Dark Mode Toggle**
-  Save theme preference in local storage with beautiful transitions
-
-* 💫 **Animated Backgrounds**
-  Stars, meteors, scroll effects, and glowing UI elements
-
-* 📱 **Responsive Navigation**
-  Desktop and mobile menus with glassmorphism
-
-* 👨‍💻 **Hero & About Sections**
-  Showcase who you are with smooth intro animations and buttons
-
-* 📊 **Skills Grid**
-  Filterable progress bars and categories with animated width
-
-* 🖼️ **Projects Showcase**
-  Display screenshots, tech stacks, and GitHub/demo links
-
-* 📩 **Contact Section**
-  Social icons + responsive contact form with toast notifications
-
-* 🚀 **One-Click Deployment**
-  Easily host your site with Vercel and GitHub
+This is my personal developer portfolio built to highlight my full-stack development skills, including project showcases like ChefKart, FoodApp, and WhatsApp Clone. The site is mobile-responsive, easy to customize, and optimized for performance using Vite.
 
 ---
 
-## 👌 Quick Start
+## Tech Stack
+
+- **React** – UI development
+- **Vite** – Fast build and dev environment
+- **Tailwind CSS** – Utility-first CSS framework
+- **Lucide Icons** – Lightweight icon library
+- **Git & GitHub** – Version control
+- **Vercel** – Deployment
+
+---
+
+## Features
+
+- Clean and modern design
+- Responsive layout for mobile, tablet, and desktop
+- Project cards with tech stack tags, live demo, and GitHub links
+- Skills section showing technologies used
+- About section with professional bio
+- Contact form with working input fields
+- Hosted and continuously deployed via Vercel
+
+---
+
+## Getting Started
 
 ### Prerequisites
 
-* [Node.js](https://nodejs.org/)
-* [Git](https://git-scm.com/)
+- Node.js
+- Git
 
-### Clone and Run
+### Installation
+
+Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/react-tailwind-portfolio.git
-cd react-tailwind-portfolio
+git clone https://github.com/HadiyaCreates/your-portfolio-repo.git
+cd your-portfolio-repo
 npm install
 npm run dev
-```
-
-Your app will be available at: [http://localhost:5173](http://localhost:5173)
-
----
-
-## 🖼️ Screenshots
-
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
-
----
-
-## ☁️ Deployment
-
-### Deploy on Vercel
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Click **Deploy**
-
-Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
-
----
-
-## 🔗 Useful Links
-
-* [React Documentation](https://reactjs.org/)
-* [Tailwind CSS Docs](https://tailwindcss.com/)
-* [Lucide Icons](https://lucide.dev/)
-* [Radix UI](https://www.radix-ui.com/)
-* [Vite](https://vitejs.dev/)
-* [Vercel](https://vercel.com/)
-
----
-
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
