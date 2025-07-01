@@ -59,7 +59,7 @@ This is my personal developer portfolio built to highlight my full-stack develop
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/HadiyaCreates/your-portfolio-repo.git
+git clone https://github.com/HadiyaCreates/Portfolio
 cd your-portfolio-repo
 npm install
 npm run dev
